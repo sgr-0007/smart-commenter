@@ -27,7 +27,7 @@ npx codecommenter-ai-cli comment ./test.js --verbosity low
 
 We welcome contributions! If you'd like to contribute to `smart-commenter`, follow these steps:
 
-1. Fork the repository at [https://github.com/sgr-0007/auditsmartcontract-cli](https://github.com/sgr-0007/auditsmartcontract-cli).
+1. Fork the repository at [https://github.com/sgr-0007/smart-commenter](https://github.com/sgr-0007/smart-commenter).
 2. Create a new branch (`git checkout -b feature/your-feature`).
 3. Make your changes and commit them (`git commit -am 'Add your feature'`).
 4. Push the branch to your fork (`git push origin feature/your-feature`).
