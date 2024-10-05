@@ -1,6 +1,6 @@
 # Smart Commenter
 
-![npm](https://www.npmjs.com/package/smart-commenter)
+![npm](https://img.shields.io/npm/v/smart-commenter)
 ![license](https://img.shields.io/npm/l/smart-commenter)
 
 Smart Commenter is a CLI tool that automatically generates comments for your code files based on their language. It uses OpenAI to analyze code and produce comments, helping to explain the code, its structure, and its logic. You can then decide whether to overwrite your original file with the newly commented version.
