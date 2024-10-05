@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in the GitHub repository or contact us via email.
+If you encounter any issues or have questions, feel free to open an issue in the GitHub repository or contact me via email [Sagar](sagarhs0007@gmail.com).
